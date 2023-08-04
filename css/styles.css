@@ -1,3 +1,83 @@
-.hello {
+p {
+  color: blue;
+  font-size: 24px;
+}
+
+h2 {
+  color: red;
+}
+
+.orange {
+  color: orange;
+}
+
+.red-background {
   background-color: red;
+}
+
+#about {
+  color: green;
+}
+
+.text > span {
+  text-decoration: line-through;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.site-nav .link {
+  text-transform: uppercase;
+}
+
+.post-title {
+  text-align: center;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.align-justify {
+  text-align: justify;
+}
+
+.post-text {
+  text-indent: 100px;
+}
+
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.post-title {
+  letter-spacing: 10px;
+}
+
+.post-text {
+  letter-spacing: 5px;
+}
+
+.title {
+  color: #ffffff;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.title1 {
+  color: #ffffff;
+  text-shadow: 2px 2px 20px #ff0000, 5px 5px 5px #000000;
+}
+
+.text1 {
+  font-size: 20px;
+}
+
+.title2 {
+  font-weight: 400;
+}
+
+.text2 {
+  font-weight: 700;
 }
